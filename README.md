@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AndersonFariasCorrea/AndersonFariasCorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### olá eu sou Anderson Corrêa
+### Olá sou Anderson Corrêa
 
 [![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andy.4.real/)
 <!--[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbFXZccGwDzdrCmCKZgDZGqgFgMdqsMBfHHjBtVDrwwZJPZxqRLLSDQjdnBWPptkGrfkMW)
