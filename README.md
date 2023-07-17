@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá sou Anderson Corrêa
+### Olá! Sou Anderson Corrêa
 
 [![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andy.4.real/)
 <!--[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbFXZccGwDzdrCmCKZgDZGqgFgMdqsMBfHHjBtVDrwwZJPZxqRLLSDQjdnBWPptkGrfkMW)
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFariasCorrea&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFariasCorrea&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFariasCorrea&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
