@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFariasCorrea&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFariasCorrea&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonfariascorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
