@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ### Technologies I use
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="laravel" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg">
   <img align="center" alt="moodle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original-wordmark.svg">
